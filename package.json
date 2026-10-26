@@ -1,0 +1,8 @@
+{
+  "name": "sandbox-flow-e2e-public",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
